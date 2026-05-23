@@ -13,6 +13,7 @@ import nodeLogo from '../assets/nodeLogo.png';
 import reactLogo from '../assets/reactLogo.png';
 import expressLogo from '../assets/expressLogo.png';
 import mongoLogo from '../assets/mongoLogo.png';
+import dbmsLogo from '../assets/dbms.png';
 
 const Courses = () => {
   const [search, setSearch] = useState('');
@@ -115,6 +116,15 @@ const Courses = () => {
       link: '/MongoLesson',
       level: 'Beginner',
       duration: '8 lessons',
+      category: 'Database',
+    },
+    {
+      title: 'DBMS & SQL',
+      desc: 'Learn database management and structured query language.',
+      img: dbmsLogo,
+      link: '/DbmsLesson',
+      level: 'Intermediate',
+      duration: '12 lessons',
       category: 'Database',
     },
   ];

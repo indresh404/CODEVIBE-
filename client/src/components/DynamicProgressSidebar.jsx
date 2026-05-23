@@ -20,7 +20,7 @@ const lessonGroups = [
     lessons: Array.from({ length: 14 }, (_, index) => ({
       title: `CSS Lesson ${index + 1}`,
       path: `/CssLesson${index + 1}`,
-      lessonId: `css-lesson${index + 1}`,
+      lessonId: `css-lesson-${index + 1}`,
     })),
   },
   {
