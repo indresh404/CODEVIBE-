@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `indresh404/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-06-16
+Last updated: 2026-06-17
 
 ## Scoring
 
@@ -27,7 +27,7 @@ Last updated: 2026-06-16
 | 11 | [@pratiyushraj007-Dev](https://github.com/pratiyushraj007-Dev) | 6 | 3 | 0 | 0 |
 | 12 | [@shreyamevada6](https://github.com/shreyamevada6) | 6 | 3 | 0 | 0 |
 | 13 | [@Swetha-Varma-K](https://github.com/Swetha-Varma-K) | 6 | 3 | 0 | 0 |
-| 14 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 4 | 2 | 0 | 0 |
+| 14 | [@divyaa404](https://github.com/divyaa404) | 4 | 2 | 0 | 0 |
 | 15 | [@Samirahs08](https://github.com/Samirahs08) | 4 | 2 | 0 | 0 |
 | 16 | [@suryagkp2007-cmyk](https://github.com/suryagkp2007-cmyk) | 4 | 2 | 0 | 0 |
 | 17 | [@theblag](https://github.com/theblag) | 4 | 2 | 0 | 0 |
