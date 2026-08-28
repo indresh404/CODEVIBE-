@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `indresh404/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-08-27
+Last updated: 2026-08-28
 
 ## Scoring
 
@@ -15,7 +15,7 @@ Last updated: 2026-08-27
 | Rank | Contributor | Score | Commits | Merged PRs | Closed Issues |
 | --- | --- | ---: | ---: | ---: | ---: |
 | 1 | [@pranav-cholleti](https://github.com/pranav-cholleti) | 36 | 18 | 0 | 0 |
-| 2 | [@Aayuiiitmg](https://github.com/Aayuiiitmg) | 24 | 12 | 0 | 0 |
+| 2 | [@aayuxsh326](https://github.com/aayuxsh326) | 24 | 12 | 0 | 0 |
 | 3 | [@riteshpatil9686-lgtm](https://github.com/riteshpatil9686-lgtm) | 22 | 11 | 0 | 0 |
 | 4 | [@sricharan-213](https://github.com/sricharan-213) | 12 | 6 | 0 | 0 |
 | 5 | [@YashvardhanJani](https://github.com/YashvardhanJani) | 12 | 6 | 0 | 0 |
